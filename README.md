@@ -26,7 +26,7 @@
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/privatechat.git
+   git clone https://github.com/mickaelfullStack/Privaty-.git
    ```
 
 2. Navegue até o diretório do projeto:
